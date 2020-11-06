@@ -1,4 +1,4 @@
-package everyday.test_2020_10_28;
+package everyday.month_10.test_2020_10_28;
 
 import java.io.Serializable;
 import java.util.*;

@@ -1,4 +1,4 @@
-package everyday.test_2020_10_30;
+package everyday.month_10.test_2020_10_30;
 
 import java.util.Arrays;
 

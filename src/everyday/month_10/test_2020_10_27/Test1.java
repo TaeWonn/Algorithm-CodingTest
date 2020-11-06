@@ -1,4 +1,4 @@
-package everyday.test_2020_10_27;
+package everyday.month_10.test_2020_10_27;
 
 import java.util.*;
 import java.util.stream.Collectors;
