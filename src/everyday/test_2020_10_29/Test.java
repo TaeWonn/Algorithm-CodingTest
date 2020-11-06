@@ -1,4 +1,4 @@
-package test_2020_10_29;
+package everyday.test_2020_10_29;
 
 import java.util.Arrays;
 import java.util.LinkedList;

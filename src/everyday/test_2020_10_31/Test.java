@@ -1,7 +1,6 @@
-package test_2020_10_31;
+package everyday.test_2020_10_31;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**
