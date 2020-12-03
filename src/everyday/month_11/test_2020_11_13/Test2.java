@@ -1,6 +1,8 @@
 package everyday.month_11.test_2020_11_13;
 
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
+import java.util.Date;
 
 public class Test2 {
 
@@ -14,8 +16,10 @@ public class Test2 {
             "3285376499342459",
             "3285-3764-9934-2452"
         };
-        int[] b= new Test2().solution(a);
-        Arrays.stream(b).forEach(System.out::println);
+        //int[] b= new Test2().solution(a);
+        //Arrays.stream(b).forEach(System.out::println);
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        System.out.println(sdf.format(new Date()));
     }
 
     public int[] solution(String[] card_numbers) {
